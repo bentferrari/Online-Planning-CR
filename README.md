@@ -1,5 +1,6 @@
 # Offline_Online_motion_planning_for_continuum_robots
-This is the open-source code for submission of IEEE Robotics and Automation Letters.
+This is the open-source code for "An Open-Source Snake Hole-Digging Inspired Safety-Critical Insertion
+Planning and Replanning Framework for Continuum Robots".
 
 Requirement: 1. MATLAB, 2. MATLAB APP: Optimization Toolbox, 3. MATLAB APP: Global Optimization Toolbox
 
